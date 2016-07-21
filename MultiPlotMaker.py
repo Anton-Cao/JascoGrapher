@@ -1,4 +1,3 @@
-import sys #for exit
 import xlsxwriter #library to create and write to excel files
 from tkinter.filedialog import askopenfilename #library to choose file
 
